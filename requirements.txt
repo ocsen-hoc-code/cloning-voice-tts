@@ -1,0 +1,7 @@
+torch
+TTS
+numpy
+scipy
+soundfile
+pytube
+pydub
